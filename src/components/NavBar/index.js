@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 function NavBar() {
     return(
         <nav className='navbar'>
-            <ul classname='flex-row'>
+            <ul className='flex-row'>
                 <li className='mx-2'>
                     <Link to='/about'>About Me</Link>
                 </li>

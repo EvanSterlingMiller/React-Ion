@@ -1,10 +1,12 @@
 import React, {Component} from 'react'
-import {HashRouter, Route} from 'react-router-dom'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+
 import './App.css'
 import Header from './components/Header'
 import Home from './components/Home'
 import About from './components/About'
-import Contact from './components/Contacts'
+import Contact from './components/Contact'
 import Portfolio from './components/Portfolio'
 import Footer from './components/Footer'
 import Resume from './components/Resume'
@@ -12,7 +14,7 @@ import Resume from './components/Resume'
 class App extends Component{
     render() {
         return (
-            <HashRouter basename = '/'>
+            <Router basename = '/'>
                 <div className = 'app'>
                     <Header />
                     <main>
@@ -24,7 +26,7 @@ class App extends Component{
                     </main>
                     <Footer />
                 </div>
-            </HashRouter>
+            </Router>
         )
     }    
 }

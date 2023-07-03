@@ -1,8 +1,8 @@
 import React from 'react'
-import GigGuide from '../../assets/images/GigGuide'
-import HealthHive from '../../assets/images/HealthHive'
-import CodeQuiz from '../../assets/images/CodeQuiz'
-import WeatherDashboard from '../../assets/images/WeatherDashboard'
+import GigGuide from '../../assets/images/GigGuide.png'
+import HealthHive from '../../assets/images/HealthHive-Welcome.png'
+import CodeQuiz from '../../assets/images/CodeQuiz.png'
+import WeatherDashboard from '../../assets/images/WeatherDashboard.png'
 
 function Portfolio() {
     return(
