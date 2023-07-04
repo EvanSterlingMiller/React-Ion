@@ -1,5 +1,5 @@
 import React from 'react'
-import {Link} from 'react-router-dom'
+import { Link } from 'react-router-dom'
 import Professional from '../../assets/images/Professional.jpg'
 
 function Home() {
