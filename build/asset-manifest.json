@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9be136d4.css",
-    "main.js": "/static/js/main.221f937f.js",
+    "main.js": "/static/js/main.ad261371.js",
     "static/media/HealthHive-Welcome.png": "/static/media/HealthHive-Welcome.fbb65dfaaf3752938488.png",
     "static/media/Professional.jpg": "/static/media/Professional.5be840b73696bf12601e.jpg",
     "static/media/WeatherDashboard.png": "/static/media/WeatherDashboard.6ccdc2c571014f4c952c.png",
@@ -9,10 +9,10 @@
     "static/media/CodeQuiz.png": "/static/media/CodeQuiz.37c4f090e5ad4b648313.png",
     "index.html": "/index.html",
     "main.9be136d4.css.map": "/static/css/main.9be136d4.css.map",
-    "main.221f937f.js.map": "/static/js/main.221f937f.js.map"
+    "main.ad261371.js.map": "/static/js/main.ad261371.js.map"
   },
   "entrypoints": [
     "static/css/main.9be136d4.css",
-    "static/js/main.221f937f.js"
+    "static/js/main.ad261371.js"
   ]
 }
